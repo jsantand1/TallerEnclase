@@ -70,7 +70,7 @@ public class principal extends AppCompatActivity {
 
                                 case 0:
                                     res = cant * Hombren;
-                                    uni = Hombren;
+
                                     break;
                                 case 1:
                                     res = cant * Hombrea;
@@ -78,7 +78,7 @@ public class principal extends AppCompatActivity {
                                     break;
                                 case 2:
                                     res = cant * Hombrep;
-                                    uni = Hombrep;
+
                                     break;
 
 
@@ -90,15 +90,15 @@ public class principal extends AppCompatActivity {
 
                                 case 0:
                                     res = cant * Hombrecn;
-                                    uni = Hombrecn;
+
                                     break;
                                 case 1:
                                     res = cant * Hombreca;
-                                    uni = Hombreca;
+
                                     break;
                                 case 2:
                                     res = cant * Hombrecp;
-                                    uni = Hombrecp;
+
                                     break;
                             }
                             break;
@@ -116,15 +116,15 @@ public class principal extends AppCompatActivity {
 
                                 case 0:
                                     res = cant * Mujern;
-                                    uni = Mujern;
+
                                     break;
                                 case 1:
                                     res = cant * Mujera;
-                                    uni = Mujera;
+
                                     break;
                                 case 2:
                                     res = cant * Mujerp;
-                                    uni = Mujerp;
+
                                     break;
 
 
@@ -136,15 +136,15 @@ public class principal extends AppCompatActivity {
 
                                 case 0:
                                     res = cant * Mujercn;
-                                    uni = Mujercn;
+
                                     break;
                                 case 1:
                                     res = cant * Mujerca;
-                                    uni = Mujerca;
+
                                     break;
                                 case 2:
                                     res = cant * Mujercp;
-                                    uni = Mujercp;
+
                                     break;
                             }
                             break;
